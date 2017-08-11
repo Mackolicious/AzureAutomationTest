@@ -1,0 +1,3 @@
+workflow{
+  $StrVariable = "Blah"
+}
